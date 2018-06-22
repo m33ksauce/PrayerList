@@ -1,0 +1,15 @@
+{
+  "name": "prayerlist-server",
+  "version": "1.0.0",
+  "description": "The server/API for the prayer list.",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "author": "Chris Meek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
