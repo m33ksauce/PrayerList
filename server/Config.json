@@ -1,0 +1,4 @@
+{
+    "port": 8080,
+    "mongodb": "mongodb://plistadmin:Pr4y3rW0rks@ds163850.mlab.com:63850/prayerlist"
+}
